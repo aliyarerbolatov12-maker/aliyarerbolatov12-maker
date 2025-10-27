@@ -36,16 +36,22 @@ I'm a **web developer** with a strong focus on **frontend** and a good understan
 - 📧 **Email**: [aliyarerbolatov12@gmail.com](mailto:aliyarerbolatov12@gmail.com)  
 - 🌍 **Website**: [aliyar-dev.vercel.app](https://aliyar-dev.vercel.app/)
 
-## My Top Repositories:
-- 🛒 [Clothing Store V2](https://github.com/aliyarerbolatov12-maker/clothing-store-v2)  
-- 📝 [Clone Trello](https://github.com/aliyarerbolatov12-maker/clone-trello)
+## Top Repositories
+
+| Repository | Tech |
+| --- | --- |
+| [Clothing Store V2](https://github.com/aliyarerbolatov12-maker/clothing-store-v2) | TypeScript · Next.js · Tailwind CSS · Express.js · Prisma |
+| [Clone Trello](https://github.com/aliyarerbolatov12-maker/clone-trello) | TypeScript · React · Tailwind CSS · Express.js · Prisma  |
+| [Algorithms & DS](https://github.com/aliyarerbolatov12-maker/algorithms-and-ds) | JavaScript · Python · C++ · C# · Express.js |
+
+
 
 ## I am working on a course about Data Structures and Algorithms (in development):
 - 📚 [Algorithms and DS Repository](https://github.com/aliyarerbolatov12-maker/algorithms-and-ds)
 
 ## Stats:
-<p align="left">
+
   <img src="https://github-readme-stats.vercel.app/api?username=aliyarerbolatov12-maker&show_icons=true&count_private=true&hide=prs&theme=radical" alt="My GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyarerbolatov12-maker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+
