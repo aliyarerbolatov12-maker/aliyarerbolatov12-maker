@@ -42,7 +42,7 @@ I'm a **web developer** with a strong focus on **frontend** and a good understan
 | --- | --- |
 | [Clothing Store V2](https://github.com/aliyarerbolatov12-maker/clothing-store-v2) | TypeScript · Next.js · Tailwind CSS · Express.js · Prisma |
 | [Clone Trello](https://github.com/aliyarerbolatov12-maker/clone-trello) | TypeScript · React · Tailwind CSS · Express.js · Prisma  |
-| [Algorithms & DS](https://github.com/aliyarerbolatov12-maker/algorithms-and-ds) | JavaScript · Python · C++ · C# · Express.js |
+| [Algorithms & DS](https://github.com/aliyarerbolatov12-maker/algorithms-and-ds) | JavaScript · Python · C++ · C# |
 
 
 
